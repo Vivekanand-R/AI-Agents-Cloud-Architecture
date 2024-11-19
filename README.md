@@ -7,7 +7,8 @@
 
 **List of Cloud Certifications:**
 
-![image](https://github.com/user-attachments/assets/4b9be3d6-18bb-4b0e-bee2-a491c26fde72)
+![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
+
 
 **Major Business Intelligence Tools and Implementations** 
 
