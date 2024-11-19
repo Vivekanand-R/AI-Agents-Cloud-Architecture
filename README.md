@@ -1,4 +1,4 @@
-# Cloud Architect Roadmap
+# Cloud Architecture Roadmap
 
 **List of Major Cloud Services:**
 
