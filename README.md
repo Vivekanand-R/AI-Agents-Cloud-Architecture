@@ -12,9 +12,9 @@
 
 **Major Business Intelligence Tools and Implementations** 
 
-- Tableau (Over 10 Projects, 50+ Worksheets/dashboards, Complex Joinings, Data Wrangling, Union, tooltips, Performance Optimization, Server Workbook Usage Analytics, Live/Ad-hoc Extracts, Big Data, Live Scheduling)
+- Tableau (Over 10 Projects, 50+ Worksheets/dashboards, Big Data, Complex Joinings, Data Wrangling, Union, tooltips, Performance Optimization, Server Workbook Usage Analytics, Live/Ad-hoc Extracts, Live Scheduling)
 
-- Spotfire (Over 10 Projects, 50+ Worksheets/dashboards, SQL Information Links Creation, Calculated Fields, Windows Lead/Lag, Dev to production Migration, Migration, Big Data, Live scheduling)
+- Spotfire (Over 10 Projects, 50+ Worksheets/dashboards, Big Data, SQL Information Links Creation, Calculated Fields, Windows Lead/Lag, Dev to production Migration, Migration, Live scheduling)
   
 - PowerBI (2 Projects, Proof of concept)
   
