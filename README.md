@@ -5,25 +5,13 @@
 ![image](https://github.com/user-attachments/assets/f1f436e3-9a04-404d-9430-4789b62d8e8e)
 
 
-**List of Cloud Certification:**
+**List of Cloud Certifications:**
 
-![image](https://github.com/user-attachments/assets/93733ffd-be48-419d-b2f1-333ec7168210)
+![image](https://github.com/user-attachments/assets/4b9be3d6-18bb-4b0e-bee2-a491c26fde72)
 
-**List of Major BI Services:**
-Tableau: Advanced Skills. 
-https://public.tableau.com/app/profile/vivekanand4623
+**List of Major BI Services:** Spotfire | PowerBI | D3 Visualization | Salesforce Wave Analytics | Kibana | Tableau 
 
-Spotfire: Advanced Skills.
-
-PowerBI: Yes
-
-D3 Visualization: Yes
-
-Salesforce: Yes
-
-Kibana: Yes
-
-**List of Other Cloud/Devops Services:**
+**List of Other Cloud/Devops Services:** 
 
 - Docker
 
@@ -37,7 +25,7 @@ Kibana: Yes
 
 - Blender: Yes
 
-- Quantum Applications (CIRQ/QISKIT)
+- Quantum Applications (CIRQ/QISKIT/IBM Cloud)
 
 
 
