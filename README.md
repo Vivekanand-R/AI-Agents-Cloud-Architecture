@@ -9,23 +9,34 @@
 
 ![image](https://github.com/user-attachments/assets/4b9be3d6-18bb-4b0e-bee2-a491c26fde72)
 
-**List of Major BI Services:** Spotfire | PowerBI | D3 Visualization | Salesforce Wave Analytics | Kibana | Tableau 
+**Major Business Intelligence Tools and Implementations** 
 
-**List of Other Cloud/Devops Services:** 
+- Tableau (Over 10 Projects, 50+ Worksheets/dashboards, Both Live and Ad-hoc Extracts, Live Scheduling)
 
-- VR/AR Applications
+- Spotfire (Over 10 Projects, 50+ Worksheets/dashboards, SQL Information Links Creation, Calculated Fields, Windows Lead/Lag, Dev to production Migration, Live scheduling)
+  
+- PowerBI (2 Projects, Proof of concept)
+  
+- D3 Visualization (1 Project, Proof of concept)
+  
+- Salesforce Wave Analytics (2 Projects, 10 Worksheets/Dashboards)
+  
+- Kibana (2 Projects, 20 Worksheets/Dashboards)
 
-- Unity Gaming/AR/VR Engine
 
-- Blender
+**Technology Stack: VR/AR, Quantum, and DevOps**
+- VR/AR Applications (2 Learning Applications, Proof of concept)
+
+- Unity Gaming/AR/VR Engine (2 Applications)
+
+- Blender (2 Applications)
 
 - Quantum Applications (CIRQ/QISKIT/IBM Cloud)
 
 - Docker
 
-- Visual Studio
+- Visual Studio & Visual Basics
+
 
 - Gitlab
-
-
 
