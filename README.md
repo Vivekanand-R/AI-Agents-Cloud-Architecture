@@ -13,19 +13,19 @@
 
 **List of Other Cloud/Devops Services:** 
 
-- Docker
+- VR/AR Applications
 
-- Gitlab
+- Unity Gaming/AR/VR Engine
+
+- Blender
+
+- Quantum Applications (CIRQ/QISKIT/IBM Cloud)
+
+- Docker
 
 - Visual Studio
 
-- VR/AR Applications: Yes
-
-- Unity: Yes (Gaming/AR/VR Engine)
-
-- Blender: Yes
-
-- Quantum Applications (CIRQ/QISKIT/IBM Cloud)
+- Gitlab
 
 
 
