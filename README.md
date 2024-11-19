@@ -12,17 +12,17 @@
 
 **Major Business Intelligence Tools and Implementations** 
 
-- Tableau (Over 10 Projects, 50+ Worksheets/dashboards, Both Live and Ad-hoc Extracts, Live Scheduling)
+- Tableau (Over 10 Projects, 50+ Worksheets/dashboards, Complex Joinings, Data Wrangling, Union, tooltips, Performance Optimization, Server Workbook Usage Analytics, Live/Ad-hoc Extracts, Big Data, Live Scheduling)
 
-- Spotfire (Over 10 Projects, 50+ Worksheets/dashboards, SQL Information Links Creation, Calculated Fields, Windows Lead/Lag, Dev to production Migration, Live scheduling)
+- Spotfire (Over 10 Projects, 50+ Worksheets/dashboards, SQL Information Links Creation, Calculated Fields, Windows Lead/Lag, Dev to production Migration, Migration, Big Data, Live scheduling)
   
 - PowerBI (2 Projects, Proof of concept)
   
-- D3 Visualization (1 Project, Proof of concept)
+- D3 Visualization (1 Project, Proof of concept, Nodes & Edges)
   
-- Salesforce Wave Analytics (2 Projects, 10 Worksheets/Dashboards)
+- Salesforce Wave Analytics (2 Projects, 10 Worksheets/Dashboards, Customer Views, CRM Analytics)
   
-- Kibana (2 Projects, 20 Worksheets/Dashboards)
+- Kibana (2 Projects, 20 Worksheets/Dashboards, Rule Management, Analytics, Rule Alerts, Big Data and Anomaly Detection)
 
 
 **Technology Stack: VR/AR, Quantum, and DevOps**
@@ -37,7 +37,6 @@
 - Docker
 
 - Visual Studio & Visual Basics
-
 
 - Gitlab
 
