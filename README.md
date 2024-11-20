@@ -26,6 +26,9 @@
 
 
 **Technology Stack: VR/AR, Quantum, and DevOps**
+
+- Python/R/SQL (Data Analysis, Automation, Stand Alone Applications, Statistics, ML, AI, API's, Big Data, ETL, Query and Data Lake Applications)
+
 - VR/AR Applications (2 Learning Applications, Proof of concept)
 
 - Unity Gaming/AR/VR Engine (2 Applications)
@@ -36,7 +39,7 @@
 
 - Docker
 
-- Visual Studio & Visual Basics
+- Visual Studio & Visual Basics (VBA Automation)
 
 - Gitlab
 
