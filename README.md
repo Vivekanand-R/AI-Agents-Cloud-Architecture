@@ -43,22 +43,6 @@
 
 - Gitlab
 
---------------------------------
 
-Case Study 1:
-
-Automating Market Scanner On the Cloud (Scope of Agentic AI):
-
-![image](https://github.com/user-attachments/assets/b61bf34b-4773-453f-a0ed-b0f1c7b22db8)
-
-API's: IBKR, Zerodha Historical API
-
-Environment: Paper Account, Live Account
-
-Cloud Requirement's: Azure Virtual Machine, Databricks, live jobs
-
-Other Requirement's: IBKR Workstation, Zerotha Kite, Automated Email Alerts
-
-Method: Backtesting, Validation, Testing and Go Live
 
 
