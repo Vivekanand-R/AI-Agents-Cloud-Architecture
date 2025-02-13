@@ -51,7 +51,7 @@
 
 Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canada) 
 
-API's Requirements: IBKR Historical Data (Paid), Yfinance (Free), Alpha Vantage (Paid), Polygon.io (Paid), Zerodha (Paid)
+API's Requirements: IBKR Historical Data (Paid), Yfinance (Open Source), Alpha Vantage (Paid), Polygon.io (Paid), Zerodha (Paid)
 
 Applications Requirements: IBKR Workstation - Papertrading Application, Zerodha Kite
 
@@ -61,7 +61,7 @@ Trading Bots: 12 (Including 2 Risk Management Bots, 1 Alert and Summary)
 
 Strategies: 7 (Backtested with last 5 years of historical data - both daily and hourly)
 
-Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for exploratory purpose.
+Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for exploratory purpose only.
 
 
 
