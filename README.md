@@ -51,6 +51,13 @@
 
 Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canada) 
 
+        if currency == "AUD":
+            stock = Stock(symbol, exchange='SMART', currency='AUD', primaryExchange='ASX')
+        elif currency == "CAD":
+            stock = Stock(symbol, exchange='SMART', currency='CAD', primaryExchange='TSE')
+        else:
+            stock = Stock(symbol, exchange='SMART', currency='USD') 
+
 API's Requirements: IBKR Historical Data (Paid), Yfinance (Open Source), Alpha Vantage (Paid), Polygon.io (Paid), Zerodha (Paid)
 
 Applications Requirements: IBKR Workstation - Papertrading Application, Zerodha Kite
