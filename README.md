@@ -58,13 +58,13 @@ Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canad
         else:
             stock = Stock(symbol, exchange='SMART', currency='USD') 
 
-API's Requirements: IBKR Historical Data (Paid), Yfinance (Open Source), Alpha Vantage (Paid), Polygon.io (Paid), Zerodha (Paid)
+API's Requirements: IBKR Historical Data (s - Subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io, Zerodha (s)
 
 Applications Requirements: IBKR Workstation - Papertrading Application, Zerodha Kite
 
 Cloud Requirements: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
-Account Bots: 12 Buy/Sell,  2 Risk Management and 1 Alert and Summary (Total 15)
+Account Bots: 12 Buy/Sell Algorithm,  2 Risk Management and 1 Alert and Detailed Report Summary (Total 15 Algorithm's)
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly)
 
