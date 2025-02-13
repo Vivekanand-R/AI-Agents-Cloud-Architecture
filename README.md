@@ -55,7 +55,7 @@ API's Requirements: IBKR Historical Data (Paid), Yfinance (Open Source), Alpha V
 
 Applications Requirements: IBKR Workstation - Papertrading Application, Zerodha Kite
 
-Cloud Requirements: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency, Risk Management
+Cloud Requirements: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
 Trading Bots: 12 (Including 2 Risk Management Bots, 1 Alert and Summary)
 
@@ -63,6 +63,9 @@ Strategies: 7 (Backtested with last 5 years of historical data - both daily and 
 
 Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for exploratory purpose only.
 
+**Cloud Cost Estimates:**
+
+![image](https://github.com/user-attachments/assets/4840d5a2-7284-4f8c-bc75-ea157bd0aaea)
 
 
 
