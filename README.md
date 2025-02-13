@@ -73,6 +73,13 @@ Strategies: 7 (Backtested with last 5 years of historical data -  daily and hour
 ![image](https://github.com/user-attachments/assets/4840d5a2-7284-4f8c-bc75-ea157bd0aaea)
 
 
+Services: Azure Bastion is a fully managed PaaS (Platform as a Service) that provides secure remote access (RDP Remote Desktop Protocol/SSH) to virtual machines (VMs) in Azure.
+
+Few Alternative's:
+
+![image](https://github.com/user-attachments/assets/5e79060a-bb85-443a-a069-dddae37911bf)
+
+
 Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose.
 
 
