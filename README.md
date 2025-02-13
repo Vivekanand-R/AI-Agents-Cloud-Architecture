@@ -45,7 +45,7 @@
 
 --------------------------------
 
-**Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Trading)**
+**Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Account)**
 
 ![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
 
@@ -57,9 +57,9 @@ Applications Requirements: IBKR Workstation - Papertrading Application, Zerodha 
 
 Cloud Requirements: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
-Trading Bots: 12 (Including 2 Risk Management Bots, 1 Alert and Summary)
+Account Bots: 12 Buy/Sell,  2 Risk Management and 1 Alert and Summary (Total 15)
 
-Strategies: 7 (Backtested with last 5 years of historical data - both daily and hourly)
+Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly)
 
 **Cloud Cost Estimates:**
 
