@@ -66,11 +66,11 @@ Strategies: 7 (Backtested with last 5 years of historical data - both daily and 
 ![image](https://github.com/user-attachments/assets/4840d5a2-7284-4f8c-bc75-ea157bd0aaea)
 
 
-**Market Share:**
+Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose.
 
-![image](https://github.com/user-attachments/assets/0c685e1f-a60e-4b4b-bf91-b74d50c1053a)
 
-Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for exploratory purpose only.
+
+
 
 
 
