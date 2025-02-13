@@ -43,5 +43,32 @@
 
 - Gitlab
 
+--------------------------------
+
+**Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Trading)**
+
+![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
+
+Exchanges: 7 Major Exchanges (US, India, UK, Germany, 
+
+API's: IBKR Historical Data (Paid), Yfinance (Free), Alpha Vantage (Paid), Polygon.io (Paid), Zerodha (Paid)
+
+Applications: IBKR Workstation - Papertrading Application, Zerodha Kite
+
+Requirements: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency, Risk Management
+
+Trading Bots: 12 (Including 2 risk management bots, 1 Alert and Summary)
+
+Strategies: 7 (Backtested with 5 years of historical data)
+
+Purpose: To Leverage & Explore the agentic AI on global financial markets for exploratory purpose.
+
+
+
+
+
+
+
+
 
 
