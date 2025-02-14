@@ -1,5 +1,46 @@
 # Cloud Architecture Roadmap
 
+**Cloud Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Account)**
+
+![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
+
+Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canada) 
+
+        if currency == "AUD":
+            stock = Stock(symbol, exchange='SMART', currency='AUD', primaryExchange='ASX')
+        elif currency == "CAD":
+            stock = Stock(symbol, exchange='SMART', currency='CAD', primaryExchange='TSE')
+        else:
+            stock = Stock(symbol, exchange='SMART', currency='USD') 
+
+Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
+
+Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
+
+Cloud Requirement's: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
+
+Programming Requirement's: 10 Buy/Sell Algorithic Bots,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 Logging,  1 Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
+
+Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
+
+**Cloud Cost Estimates:**
+
+![image](https://github.com/user-attachments/assets/4840d5a2-7284-4f8c-bc75-ea157bd0aaea)
+
+
+Services: Azure Bastion is a fully managed PaaS (Platform as a Service) that provides secure remote access (RDP Remote Desktop Protocol/SSH) to virtual machines (VMs) in Azure.
+
+Few Alternative's:
+
+![image](https://github.com/user-attachments/assets/5e79060a-bb85-443a-a069-dddae37911bf)
+
+
+Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose.
+
+
+
+-----------------------------------------------
+
 **List of Major Cloud Services:**
 
 ![image](https://github.com/user-attachments/assets/f1f436e3-9a04-404d-9430-4789b62d8e8e)
@@ -44,44 +85,6 @@
 - Gitlab
 
 --------------------------------
-
-**Cloud Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Account)**
-
-![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
-
-Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canada) 
-
-        if currency == "AUD":
-            stock = Stock(symbol, exchange='SMART', currency='AUD', primaryExchange='ASX')
-        elif currency == "CAD":
-            stock = Stock(symbol, exchange='SMART', currency='CAD', primaryExchange='TSE')
-        else:
-            stock = Stock(symbol, exchange='SMART', currency='USD') 
-
-Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
-
-Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
-
-Cloud Requirement's: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
-
-Programming Requirement's: 10 Buy/Sell Algorithic Bots,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 Logging,  1 Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
-
-Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
-
-**Cloud Cost Estimates:**
-
-![image](https://github.com/user-attachments/assets/4840d5a2-7284-4f8c-bc75-ea157bd0aaea)
-
-
-Services: Azure Bastion is a fully managed PaaS (Platform as a Service) that provides secure remote access (RDP Remote Desktop Protocol/SSH) to virtual machines (VMs) in Azure.
-
-Few Alternative's:
-
-![image](https://github.com/user-attachments/assets/5e79060a-bb85-443a-a069-dddae37911bf)
-
-
-Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose.
-
 
 
 
