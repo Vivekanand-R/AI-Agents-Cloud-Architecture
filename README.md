@@ -13,6 +13,8 @@ Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canad
         else:
             stock = Stock(symbol, exchange='SMART', currency='USD') 
 
+Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with High Precision, Speed, and Intelligence.
+
 Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
 
 Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
@@ -22,6 +24,9 @@ Cloud Requirement's: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, 
 Programming Requirement's: 10 Buy/Sell Algorithmic Bots,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 Logging,  1 Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
+
+Value Prop: Dynamic Stock Allocation, Real Time, Bidirection (Can Handle both Bull and Bearish Market Conditions), No Manual Intervention and Scalable to multi cloud environments, 
+
 
 **Cloud Cost Estimates:**
 
@@ -34,8 +39,6 @@ Few Alternative's:
 
 ![image](https://github.com/user-attachments/assets/5e79060a-bb85-443a-a069-dddae37911bf)
 
-
-Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with High Precision, Speed, and Intelligence.
 
 -----------------------------------------------
 
