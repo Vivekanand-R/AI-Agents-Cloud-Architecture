@@ -79,11 +79,9 @@ Few Alternative's:
 
 - Quantum Applications (CIRQ/QISKIT/IBM Cloud)
 
-- Docker
-
 - Visual Studio & Visual Basics (VBA Automation)
 
-- Gitlab
+- Gitlab, Docker
 
 --------------------------------
 
