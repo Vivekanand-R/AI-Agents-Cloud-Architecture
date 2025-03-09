@@ -35,9 +35,7 @@ Few Alternative's:
 ![image](https://github.com/user-attachments/assets/5e79060a-bb85-443a-a069-dddae37911bf)
 
 
-Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose.
-
-
+Purpose: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with High Precision, Speed, and Intelligence.
 
 -----------------------------------------------
 
