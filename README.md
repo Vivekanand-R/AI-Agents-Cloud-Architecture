@@ -13,7 +13,7 @@ Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canad
         else:
             stock = Stock(symbol, exchange='SMART', currency='USD') 
 
-Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with High Precision, Speed, and Intelligence.
+Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with Precision, Speed, and Intelligence.
 
 Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
 
@@ -25,7 +25,7 @@ Programming Requirement's: 10 Buy/Sell Algorithmic Bots,  2 Risk Management (Sto
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
 
-Value Prop: Dynamic Stock Allocation, Real Time, Bidirection (Can Handle both Bull and Bearish Market Conditions), No Manual Intervention and Scalable to multi cloud environments and fintech AI market scanner. 
+Value Prop: Dynamic Stock Allocation, Instance Backtesting, Measure Success, Calculate Probabaility scores, Bidirection Handling (both Bull and Bearish Market Conditions), No Manual Intervention, Scalable to multi cloud environments and fintech AI market scanner. 
 
 
 **Cloud Cost Estimates:**
