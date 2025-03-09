@@ -25,7 +25,7 @@ Programming Requirement's: 10 Buy/Sell Algorithmic Bots,  2 Risk Management (Sto
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
 
-Value Prop: Dynamic Stock Allocation, Real Time, Bidirection (Can Handle both Bull and Bearish Market Conditions), No Manual Intervention and Scalable to multi cloud environments, 
+Value Prop: Dynamic Stock Allocation, Real Time, Bidirection (Can Handle both Bull and Bearish Market Conditions), No Manual Intervention and Scalable to multi cloud environments and fintech AI market scanner. 
 
 
 **Cloud Cost Estimates:**
