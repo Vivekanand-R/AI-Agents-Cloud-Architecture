@@ -25,7 +25,7 @@ Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
 
-Value Prop: This AI-driven trading bot empowers traders with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, our bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+Value Prop: This AI-driven trading bot empowers traders with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
 
 **Cloud Cost Estimates:**
