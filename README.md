@@ -21,11 +21,11 @@ Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha 
 
 Cloud Requirement's: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
-Programming Requirement's: 10 Buy/Sell Algorithmic Bots,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 Logging,  1 Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
+Programming Requirement's: 10 Algorithms to execute the Buy/Sell Trades,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
 
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
 
-Value Prop: Dynamic Stock Allocation, Instance Backtesting, Measure Success, Calculate Probabaility scores, Bidirection Handling (both Bull and Bearish Market Conditions), No Manual Intervention, Scalable to multi cloud environments and fintech AI market scanner. 
+Value Prop: Initiate multiple transactions simultaneously, Dynamic Stock Allocation, Instant Backtesting in a minute, Measure Success%, Assign Probabaility scores, Adaptive Strategy for Both Bullish and Bearish Market Conditions, Fully Automated, Scalable to multi cloud environments and fintech AI market scanner. 
 
 
 **Cloud Cost Estimates:**
