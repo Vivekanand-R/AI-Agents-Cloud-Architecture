@@ -13,7 +13,7 @@ Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canad
         else:
             stock = Stock(symbol, exchange='SMART', currency='USD') 
 
-Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with Precision, Speed, and Intelligence. Market Education.
+Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with Precision, Speed, and Intelligence. 
 
 Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
 
