@@ -47,11 +47,6 @@ Few Alternative's:
 ![image](https://github.com/user-attachments/assets/f1f436e3-9a04-404d-9430-4789b62d8e8e)
 
 
-Alibaba Cloud equivalents: Compute - Alibaba ECS, Storage - Alibaba OSS, Database - Alibaba ApsaraDB, Serverless - Alibaba Function Compute, Networking - Alibaba VPC, Content Delivery - Alibaba CDN, Messaging - Alibaba Message Queue (MQ), Monitoring - Alibaba CloudMonitor, Machine Learning - Alibaba PAI, Identity & Access Management - Alibaba RAM, Quantum Computing - Alibaba Quantum Computing Laboratory, VR/AR Services - Alibaba GVP, Dashboarding - Alibaba Quick BI.
-
-Zoho Cloud equivalents: Compute - Zoho Private Cloud, Storage - Zoho WorkDrive, Database - Zoho Creator Database, Serverless - Zoho Catalyst, Networking - Zoho VPN, Content Delivery - Zoho CDN, Messaging - Zoho Cliq, Monitoring - Zoho Cloud Security Dashboard, Machine Learning - Zoho Zia AI, Identity & Access Management - Zoho Directory, Quantum Computing - Not available, VR/AR Services - Not available, Dashboarding - Zoho Analytics
-
-
 **List of Cloud Certifications:**
 
 ![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
