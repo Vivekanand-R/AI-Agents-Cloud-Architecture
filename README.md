@@ -1,8 +1,18 @@
 # Cloud Architecture Roadmap
 
-**Cloud Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI - (Paper Account)**
+**Cloud Project 1: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI for Cloud - (Paper Account)**
+
+Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
 
 ![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
+
+**Cloud Requirement's:** Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
+
+Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
+
+Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
+
+Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
 
 Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canada) 
 
@@ -13,19 +23,9 @@ Exchanges: 7 Major Exchanges (Australia, Japan, India, UK, Germany, US and Canad
         else:
             stock = Stock(symbol, exchange='SMART', currency='USD') 
 
-Vision: To Leverage and Explore the scope of agentic AI on global financial markets for live exploratory purpose with Precision, Speed, and Intelligence. 
-
-Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
-
-Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
-
-Cloud Requirement's: Azure Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
-
-Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
-
 Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
 
-Value Prop: This AI-driven trading bot empowers traders with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+Value Prop: This AI-driven trading bot empowers investors/cloud users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
 
 **Cloud Cost Estimates:**
