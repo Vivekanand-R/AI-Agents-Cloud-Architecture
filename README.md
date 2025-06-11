@@ -24,7 +24,7 @@ J. Visualization: Dashboards with Streamlit or Grafana for insights and monitori
 
 
 
-**Cloud Project 2: Automating Global Financial Trades On the Cloud - Rule Based, Scope of Agentic AI for Cloud - (Sample Account)**
+**Cloud Project 2: Automating Equity - Agentic AI for Cloud - (Sample)**
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
 
