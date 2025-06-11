@@ -1,6 +1,6 @@
 # Cloud Architecture
 
-**Cloud Project 1: Healthcare Application: Health & Wellness Coach AI Agent System** 
+**Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
