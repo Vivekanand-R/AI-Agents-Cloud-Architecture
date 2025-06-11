@@ -1,6 +1,6 @@
 # Cloud Architecture
 
-**Cloud Project 1: Health & Wellness Coach AI Agent System** 
+**Cloud Project 1: Healthcare Application: Health & Wellness Coach AI Agent System** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
@@ -18,7 +18,13 @@ C. NLP/NLU: spaCy, Rasa NLU (for intent detection)
 Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 
-**Cloud Project 2: Automating Equity - Agentic AI for Cloud**
+                          
+----------------------------------------
+
+
+                           
+
+**Cloud Project 2: Fintech Application: Automating Equity - Agentic AI for Cloud**
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
 
@@ -35,7 +41,15 @@ Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis)
 Value Prop: This AI-driven trading bot empowers investors/cloud users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
 
-**Cloud Project 3: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** (Part of Roadmap)
+
+                          
+----------------------------------------
+
+
+
+
+
+**Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** (Part of Roadmap)
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
 
