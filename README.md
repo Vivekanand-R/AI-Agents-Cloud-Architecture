@@ -4,7 +4,7 @@
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
-It's a personal guidance/recommendation system on a fitness, provides personalized lifestyle guidance (e.g., diet, sleep, hydration, exercise) based on user input and wearable data. To provide simple assitance like a chatbots. 
+It's a guidance/recommendation system on a fitness, provides personalized lifestyle guidance (e.g., diet, sleep, hydration, exercise) based on user input and wearable data. To provide simple assitance like a chatbots. 
 
 Tech: LLM + rule-based logic + wearable APIs.
 
