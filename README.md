@@ -48,7 +48,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
                            
 
-**Cloud Project 2: Fintech Application: Automating Equity - Agentic AI for Cloud**
+**Cloud Project 2: Fintech Application: Automating Fintech - Agentic AI for Cloud**
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
 
