@@ -1,6 +1,43 @@
-# Cloud Architecture Roadmap
+# Cloud Architecture
 
-**Cloud Project 1: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation**
+**Cloud Project 1: Health & Wellness Coach AI Agent System** 
+
+Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
+
+It's a personal guidance/recommendation system on a fitness, provides personalized lifestyle guidance (e.g., diet, sleep, hydration, exercise) based on user input and wearable data.
+
+Tech: LLM + rule-based logic + wearable APIs.
+
+**Backend / AI:**
+A. Python (FastAPI or Flask) for APIs
+
+B. LLM integration: GPT-4, Claude, or open-source (e.g., LLaMA) via prompt templates
+
+C. NLP/NLU: spaCy, Rasa NLU (for intent detection)
+
+Optional AI hosting: Hugging Face Inference API or OpenAI API
+
+
+**Cloud Project 2: Automating Equity - Agentic AI for Cloud**
+
+Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
+
+**Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
+
+Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
+
+Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
+
+Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
+
+Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
+
+Value Prop: This AI-driven trading bot empowers investors/cloud users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+
+
+**Cloud Project 3: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** (Part of Roadmap)
+
+**Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
 
 A. GPU/TPU Compute: Use cloud platforms (AWS, GCP, Azure) with GPU/TPU instances for training and simulation.
 
@@ -23,33 +60,7 @@ I. Security & IAM: Enforce access controls, encryption, and audit logging.
 J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
 
-
-**Cloud Project 2: Automating Equity - Agentic AI for Cloud - (Sample)**
-
-Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
-
-**Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
-
-![image](https://github.com/user-attachments/assets/9895a30e-e6df-446c-8fc2-14dff00f7b42)
-
-Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
-
-Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
-
-Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
-
-Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
-
-        if currency == "AUD":
-            stock = Stock(symbol, exchange='SMART', currency='AUD', primaryExchange='ASX')
-        elif currency == "CAD":
-            stock = Stock(symbol, exchange='SMART', currency='CAD', primaryExchange='TSE')
-        else:
-            stock = Stock(symbol, exchange='SMART', currency='USD') 
-
-Strategies: 7 (Backtested with last 5 years of historical data -  daily and hourly), Machine learning and classifications tasks. 
-
-Value Prop: This AI-driven trading bot empowers investors/cloud users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **Cloud Cost Estimates:**
