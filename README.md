@@ -4,9 +4,12 @@
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
-It's a personal guidance/recommendation system on a fitness, provides personalized lifestyle guidance (e.g., diet, sleep, hydration, exercise) based on user input and wearable data.
+It's a personal guidance/recommendation system on a fitness, provides personalized lifestyle guidance (e.g., diet, sleep, hydration, exercise) based on user input and wearable data. To provide simple assitance like a chatbots. 
 
 Tech: LLM + rule-based logic + wearable APIs.
+
+![image](https://github.com/user-attachments/assets/c65a7476-f97a-4202-ab1a-7e54acb6b420)
+
 
 **Backend / AI:**
 A. Python (FastAPI or Flask) for APIs
@@ -16,6 +19,27 @@ B. LLM integration: GPT-4, Claude, or open-source (e.g., LLaMA) via prompt templ
 C. NLP/NLU: spaCy, Rasa NLU (for intent detection)
 
 Optional AI hosting: Hugging Face Inference API or OpenAI API
+
+
+**Tech Stack Using NVIDIA Ecosystem:**
+
+1. LLM Inference: Use NVIDIA NIM or TensorRT-LLM for fast, GPU-optimized large language models.
+
+2. Model Serving: Deploy models via NVIDIA Triton Inference Server.
+
+3. NLP/Intent Detection: Leverage NVIDIA NeMo for prebuilt NLP models and training pipelines.
+
+4. Backend: FastAPI (Python) for handling user interactions and routing to AI components.
+
+5. Wearable Integration: Collect and process user health data from APIs like Fitbit or Apple Health.
+
+6. Scheduling & Reminders: Use Celery with Redis for nudges and task queues.
+
+7. Cloud Deployment: Run on AWS/GCP using NVIDIA GPU instances (A100/V100).
+
+8. Containerization: Docker + NGC containers for scalable, reproducible deployments.
+
+9. Monitoring: Use NVIDIA tools or Prometheus/Grafana for performance and inference tracking.
 
 
                           
