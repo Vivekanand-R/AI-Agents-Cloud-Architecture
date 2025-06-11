@@ -3,14 +3,23 @@
 **Cloud Project 1: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation**
 
 A. GPU/TPU Compute: Use cloud platforms (AWS, GCP, Azure) with GPU/TPU instances for training and simulation.
+
 B. Scalable Storage: Store large climate datasets using S3 or GCS with DVC for version control.
+
 C. Distributed Processing: Use Dask or Spark for efficient data preprocessing and simulation scaling.
+
 D. Experiment Tracking: Track models with MLflow or Weights & Biases for reproducibility.
+
 E. Containerization: Use Docker and Kubernetes for agent deployment and orchestration.
+
 F. Data Access APIs: Integrate remote datasets via OPeNDAP, RESTful APIs, or Earthdata.
+
 G. Cloud-Native Architecture: Design with microservices and auto-scaling for flexibility.
+
 H. CI/CD Pipelines: Automate testing and deployment using GitHub Actions or GitLab CI.
+
 I. Security & IAM: Enforce access controls, encryption, and audit logging.
+
 J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
 
