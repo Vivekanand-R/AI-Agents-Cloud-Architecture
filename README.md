@@ -73,7 +73,7 @@ Value Prop: This AI-driven trading bot empowers investors/cloud users with real-
 
 
 
-**Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** (Part of Roadmap)
+**Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** 
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
 
