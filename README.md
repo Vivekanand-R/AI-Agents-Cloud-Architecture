@@ -50,7 +50,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 **Cloud Project 2: Fintech Application: Automating Fintech - Agentic AI for Cloud**
 
-Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent trading. Enabling precision and speed through scalable, autonomous decision-making in the cloud.
+Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
 
 **Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
 
@@ -62,7 +62,7 @@ Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  
 
 Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
 
-Value Prop: This AI-driven trading bot empowers investors/cloud users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+Value Prop: This AI-driven recommendations empowers fintech users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
 
 
