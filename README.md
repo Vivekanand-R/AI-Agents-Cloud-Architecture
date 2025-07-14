@@ -58,7 +58,7 @@ Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance
 
 Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
 
-Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary (Total 15 Algorithm's; Approx 6,000 lines of codes )
+Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary.
 
 Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
 
