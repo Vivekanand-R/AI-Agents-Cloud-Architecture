@@ -68,7 +68,7 @@ To try with simple EMA crossover combinations, we would get approx:
 
 <img width="550" height="316" alt="image" src="https://github.com/user-attachments/assets/3aa7a095-3600-4319-ac70-8f2f00f948c0" />
 
-We could leverage AI Agents for that to optimize it with other million combinations for example. 
+Leverage AI Agents for that to optimize it with other million combinations for example. 
 
 ----------------------------------------
 
