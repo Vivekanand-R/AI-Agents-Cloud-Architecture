@@ -64,12 +64,6 @@ Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis)
 
 Value Prop: This AI-driven recommendations empowers fintech users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
-To try with simple EMA crossover combinations, we would get approx:
-
-<img width="550" height="316" alt="image" src="https://github.com/user-attachments/assets/3aa7a095-3600-4319-ac70-8f2f00f948c0" />
-
-Leverage AI Agents for that to optimize it with other million combinations for example. 
-
 ----------------------------------------
 
 
