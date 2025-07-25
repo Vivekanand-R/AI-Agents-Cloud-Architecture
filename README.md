@@ -74,6 +74,10 @@ Sample Results:
 
 <img width="985" height="398" alt="image" src="https://github.com/user-attachments/assets/60d79b18-b380-463a-ac31-1f6d0fe6f185" />
 
+Conditions Optimization (Grid Search):
+
+<img width="532" height="351" alt="image" src="https://github.com/user-attachments/assets/8744ecb0-e70a-4656-9618-47f22ec4944f" />
+
 
 ----------------------------------------
 
