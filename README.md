@@ -64,6 +64,17 @@ Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis)
 
 Value Prop: This AI-driven recommendations empowers fintech users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
 
+Architecture:
+
+<img width="403" height="640" alt="image" src="https://github.com/user-attachments/assets/58062991-7962-4e67-add9-eb13cbc24177" />
+
+Sample Results:
+
+<img width="1642" height="537" alt="image" src="https://github.com/user-attachments/assets/27e2d800-2057-4e39-a3dc-21421cc0159e" />
+
+<img width="985" height="398" alt="image" src="https://github.com/user-attachments/assets/60d79b18-b380-463a-ac31-1f6d0fe6f185" />
+
+
 ----------------------------------------
 
 
