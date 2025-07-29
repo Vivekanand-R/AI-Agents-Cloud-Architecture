@@ -1,5 +1,20 @@
 # Cloud Architecture
 
+AI Agents: To achieve certain goals. {perceives -> decide -> and then act)
+
+Agentic AI: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
+
+Top 8 frameworks for AI agent development:
+  		A. LangChain – LLM-based agents with tools, memory, and chains
+  		B. AutoGen (Microsoft) – Multi-agent orchestration and conversation with tool use
+  		C. OpenAI Gym / Gymnasium – Standard RL environments for training agents
+  		D. Hugging Face Transformers + Agents – Pretrained LLMs with built-in tools and agent API
+  		E. Unity ML-Agents Toolkit – 3D simulation and training for embodied/robotic agents
+  		F. Haystack (deepset) – Retrieval-Augmented Generation (RAG) pipelines for knowledge agents
+  		G. RLlib (Ray) – Scalable reinforcement learning, supports multi-agent training
+  		H. CrewAI – LLM-based agent teamwork with role delegation and task collaboration
+
+
 **Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
