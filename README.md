@@ -1,10 +1,11 @@
 # Cloud Architecture
 
-AI Agents: To achieve certain goals. {perceives -> decide -> and then act)
+**AI Agents**: To achieve certain goals. {perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc.,]
 
-Agentic AI: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
+**Agentic AI**: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
 
 Top 8 frameworks for AI agent development:
+
         		A. LangChain – LLM-based agents with tools, memory, and chains
         		B. AutoGen (Microsoft) – Multi-agent orchestration and conversation with tool use
         		C. OpenAI Gym / Gymnasium – Standard RL environments for training agents
