@@ -1,8 +1,8 @@
 # Cloud Architecture
 
-**AI Agents**: To achieve certain goals. {perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc.,]
-
 **Agentic AI**: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
+
+**AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc]
 
 Top 8 frameworks for AI agent development:
 
