@@ -138,14 +138,6 @@ Few Alternative's:
 
 
 
-Few Data Apps and MLops Experiements:
-
-1.https://www.tensorflow.org/tensorboard
-2. https://grafana.com/
-3. https://streamlit.io/
-4. https://wandb.ai/
-
-
 
 
 
