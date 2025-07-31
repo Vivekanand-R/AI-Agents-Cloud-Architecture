@@ -133,7 +133,7 @@ J. Visualization: Dashboards with Streamlit or Grafana for insights and monitori
 
 **1. Predictive Maintenance Agent:**
 
-Consumes sensor logs from turbines, transformers, or imaging healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers and field on time without any human interventions involved. 
+Consumes sensor logs from turbines, transformers, or imaging CT/MRI high margin healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers and field on time without any human interventions involved. 
 
 **2. Digital Twin Control Agent**
 
