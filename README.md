@@ -137,7 +137,7 @@ Consumes sensor logs from turbines, transformers, or imaging healthcare machines
 
 **2. Digital Twin Control Agent**
 
-Simulates physical assets (gas turbines, wind farms, healthcare equipments) to test what-if scenarios for performance tuning, lifetime extension, or policy compliance. Auto identify the root casue and fix the engineering issues. 
+Simulates physical assets (gas turbines, wind farms, healthcare equipments) to test what-if scenarios for performance tuning, lifetime extension, or policy compliance. Auto identify the root casue and fix the product issues. 
 
 Data Readiness & QA Agent: Evaluates data pipelines, spots data drift, missingness, schema violations, and alerts teams before models fail downstream.
 
