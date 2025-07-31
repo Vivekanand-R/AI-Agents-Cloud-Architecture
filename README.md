@@ -16,6 +16,7 @@ Top 8 frameworks for AI agent development:
         		H. CrewAI – LLM-based agent teamwork with role delegation and task collaboration
 
 
+
 **Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
@@ -126,7 +127,29 @@ I. Security & IAM: Enforce access controls, encryption, and audit logging.
 J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------
+
+**Other Industrial Applications and Use Cases of Agentic AI (To be in Watchlist for 2025):**
+
+**1. Predictive Maintenance Agent:**
+
+Consumes sensor logs from turbines, transformers, or imaging healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers and field on time without any human interventions involved. 
+
+**2. Digital Twin Control Agent**
+
+Simulates physical assets (gas turbines, wind farms, healthcare equipments) to test what-if scenarios for performance tuning, lifetime extension, or policy compliance. Auto identify the root casue and fix the engineering issues. 
+
+Data Readiness & QA Agent: Evaluates data pipelines, spots data drift, missingness, schema violations, and alerts teams before models fail downstream.
+
+**3. Auto-Dashboarding Agent**
+
+Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with natural language prompts, including forecasting and anomaly explanations. And, do a better predictions/forecasting for Data Analytics team.
+
+**4. Investment Research Agent** 
+
+Analyzes real-time data, economic indicators, and sentiment for portfolio suggestions. Autonomous Decision-Makers & Planners. Simulates a person’s decision-making for training or automation (e.g., for CEOs, investors).
+
+------------------------
 
 
 **Cloud Cost Estimates:**
