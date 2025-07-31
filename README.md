@@ -143,7 +143,7 @@ Data Readiness & QA Agent: Evaluates data pipelines, spots data drift, missingne
 
 **3. Auto-Dashboarding Agent**
 
-Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with natural language prompts, including forecasting and anomaly explanations. And, do a better predictions/forecasting for Data Analytics team.
+Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with natural language prompts, including forecasting and anomaly explanations. And, do a better predictions/forecasting for commercial team.
 
 **4. Investment Research Agent** 
 
