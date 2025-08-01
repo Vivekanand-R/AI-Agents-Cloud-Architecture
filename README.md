@@ -28,8 +28,6 @@ It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [ex
 
 <img width="660" height="275" alt="image" src="https://github.com/user-attachments/assets/ad9159bf-5313-42d1-83dc-08a25b39f016" />
 
-<img width="402" height="391" alt="image" src="https://github.com/user-attachments/assets/49ffd9d5-3081-493d-856f-cefb30114805" />
-
 (Sample estimations)
 
 ---------------------------
