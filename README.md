@@ -4,7 +4,7 @@
 
 **AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc]
 
-Top 8 frameworks for AI agent development:
+Top frameworks for AI agent development:
 
         		A. LangChain – LLM-based agents with tools, memory, and chains
         		B. AutoGen (Microsoft) – Multi-agent orchestration and conversation with tool use
@@ -14,21 +14,6 @@ Top 8 frameworks for AI agent development:
         		F. Haystack (deepset) – Retrieval-Augmented Generation (RAG) pipelines for knowledge agents
         		G. RLlib (Ray) – Scalable reinforcement learning, supports multi-agent training
         		H. CrewAI – LLM-based agent teamwork with role delegation and task collaboration
-
----------------------------
-
-**Global agentic AI market:** (CAGR Rough Estimates)
-
-It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [extremely high expected growth rates], for LLM market is expected to be between ~30–37% range for the same duration. 
-
-<img width="607" height="250" alt="image" src="https://github.com/user-attachments/assets/d5f34e78-9fd5-4a8c-98c2-0385572d81ce" />
-
-
-**The Real Builders Behind Agentic AI’s Predicted Exponential Growth: 40%+ CAGR**
-
-<img width="660" height="275" alt="image" src="https://github.com/user-attachments/assets/ad9159bf-5313-42d1-83dc-08a25b39f016" />
-
-(Sample estimations)
 
 ---------------------------
 
@@ -180,6 +165,23 @@ Few Alternative's:
 
 
 -----------------------------------------------
+
+
+**Global agentic AI market:** (CAGR Rough Estimates)
+
+It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [extremely high expected growth rates], for LLM market is expected to be between ~30–37% range for the same duration. 
+
+<img width="607" height="250" alt="image" src="https://github.com/user-attachments/assets/d5f34e78-9fd5-4a8c-98c2-0385572d81ce" />
+
+
+**The Real Builders Behind Agentic AI’s Predicted Exponential Growth: 40%+ CAGR**
+
+<img width="660" height="275" alt="image" src="https://github.com/user-attachments/assets/ad9159bf-5313-42d1-83dc-08a25b39f016" />
+
+(Sample estimations)
+
+---------------------------
+
 
 **List of Major Cloud Services:**
 
