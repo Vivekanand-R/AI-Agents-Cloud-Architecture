@@ -89,8 +89,6 @@ Sample Live Results:
 
 <img width="1642" height="537" alt="image" src="https://github.com/user-attachments/assets/27e2d800-2057-4e39-a3dc-21421cc0159e" />
 
-<img width="985" height="398" alt="image" src="https://github.com/user-attachments/assets/60d79b18-b380-463a-ac31-1f6d0fe6f185" />
-
 <img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
 
 
