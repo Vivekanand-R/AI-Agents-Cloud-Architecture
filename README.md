@@ -23,12 +23,6 @@ List of AI Agents Protocol's:
                 3. Agent Network Communication (ANC)
 
 
-1. Model Context Protocol:
-
-   <img width="677" height="592" alt="image" src="https://github.com/user-attachments/assets/4acfc693-c390-4232-94bc-095057efba5a" />
-
-(Image Created using Gemini AI)
-
 ---------------------------
 
 **Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
