@@ -5,7 +5,7 @@
 **AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc]
 
 
-**Layers of Agentic AI: **
+**Layers of Agentic AI:**
 
 Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing.
 
