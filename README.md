@@ -17,7 +17,7 @@ Layer 2 – Index & Vectorization: Purpose: Convert data into embeddings (mathem
 
 Tools: Pinecone, Weaviate, Milvus, Qdrant.
 
-Layer 3 – Retrieval: Purpose: Fetch the most relevant data from the knowledge base when a query is asked.
+Layer 3 – Retrieval: Purpose: **Fetch the most relevant data** from the knowledge base when a query is asked.
 
 Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
 
@@ -29,13 +29,13 @@ Layer 5 – Augmentation & Context Fusion: Purpose: Merge retrieved data with th
 
 Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
 
-Layer 6 – Generation: Purpose: Produce the final answer (text, code, summary, table) using all gathered and processed info.
+Layer 6 – Generation: Purpose: Produce the final answer (**text, code, summary, table**) using all gathered and processed info.
 
-Tools: GPT-4o, Claude, Mistral Large, LLaMA 3.
+Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
 
-Layer 7 – Action & Feedback: Purpose: Execute the answer (send reports, trigger automation, or request feedback to improve).
+Layer 7 – Action & Feedback: Purpose: Execute the answer (**send reports**, trigger automation, or request feedback to improve).
 
-Tools: Zapier, Hugging Face Agents, AWS Lambda, Weights & Biases.
+Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
 
 
 Top frameworks for AI agent development:
