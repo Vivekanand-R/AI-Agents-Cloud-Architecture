@@ -129,6 +129,11 @@ Architecture: (Autonomous Execution)
 
 <img width="817" height="530" alt="image" src="https://github.com/user-attachments/assets/1988cad5-78fb-4fde-83ed-53b4d0af624c" />
 
+Detailed:
+
+<img width="793" height="531" alt="image" src="https://github.com/user-attachments/assets/90015ded-1576-4a3d-a7f4-97324ca75164" />
+
+
 
 Sample Live Results:
 
