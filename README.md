@@ -9,8 +9,6 @@
 
 Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing.
 
-Analogy: Like collecting and organizing raw ingredients before cooking.
-
 Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.
 
 Layer 2 – Index & Vectorization: Purpose: Convert data into embeddings (mathematical vectors) so the system can search and understand by meaning, not just keywords.
