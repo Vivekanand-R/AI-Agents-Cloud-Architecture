@@ -1,4 +1,4 @@
-# Cloud Architecture
+# AI Agents
 
 **Agentic AI**: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
 
