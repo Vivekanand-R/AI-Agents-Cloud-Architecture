@@ -57,7 +57,56 @@ List of AI Agents Protocol's:
 
 ---------------------------
 
-# **Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
+
+# **Agent 1 - Research Assistance [MVP]**
+
+<img width="885" height="511" alt="image" src="https://github.com/user-attachments/assets/3be8247f-fa64-428b-9616-a1ff804a2e7f" />
+
+
+----------------------------------------
+                         
+
+# **Agent 2 - Finance Analyst: Automating Fintech And Equity Transactions** [Completed Version]
+
+Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
+
+**Agents Building Blocks:** Data Ingestion, Indexing, Brain, Memory, Tools, Action and Feedback. 
+
+**Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
+
+Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
+
+Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
+
+Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary.
+
+Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
+
+Value Prop: This AI-driven recommendations empowers fintech users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
+
+Architecture: (Linear Execution Top to Bottom)
+
+<img width="403" height="640" alt="image" src="https://github.com/user-attachments/assets/58062991-7962-4e67-add9-eb13cbc24177" />
+
+**Architecture: (More Autonomous Execution):**
+
+<img width="793" height="531" alt="image" src="https://github.com/user-attachments/assets/90015ded-1576-4a3d-a7f4-97324ca75164" />
+
+
+**Sample Live Results:**
+
+<img width="1642" height="537" alt="image" src="https://github.com/user-attachments/assets/27e2d800-2057-4e39-a3dc-21421cc0159e" />
+
+<img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
+
+
+Conditions Optimization (Grid Search):
+
+<img width="532" height="351" alt="image" src="https://github.com/user-attachments/assets/8744ecb0-e70a-4656-9618-47f22ec4944f" />
+
+-----------------------------------------------
+
+# **Agent 3 : Healthcare Application: Health & Wellness AI Agentic System [Idea Phase]** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
@@ -99,54 +148,11 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 9. Monitoring: Use NVIDIA tools or Prometheus/Grafana for performance and inference tracking.
 
 
-                          
-----------------------------------------
-                         
-
-# **Cloud Project 2: Fintech Application: Automating Fintech - Agentic AI for Cloud** [Completed Version - Agent 2]
-
-Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
-
-**Agents Building Blocks:** Data Ingestion, Indexing, Brain, Memory, Tools, Action and Feedback. 
-
-**Cloud Requirement's:** Azure Cloud Virtual Machine 24x7, Batch, Python, Task Scheduler, Databrics, APIs, Financial Knowlegde, Virtual Currency and Risk Management.
-
-Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance (Open Source), Alpha Vantage (s) , Polygon.io (s) and Zerodha (s)
-
-Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
-
-Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary.
-
-Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
-
-Value Prop: This AI-driven recommendations empowers fintech users with real-time, automated decision-making by executing multiple transactions simultaneously, dynamically allocating assets, and providing instant backtesting for optimized performance. With adaptive strategies for both bullish and bearish markets, success probability scoring, and multi-cloud scalability, bot ensures precision, efficiency, and a competitive edge in algorithmic trading.
-
-Architecture: (Linear Execution Top to Bottom)
-
-<img width="403" height="640" alt="image" src="https://github.com/user-attachments/assets/58062991-7962-4e67-add9-eb13cbc24177" />
-
-**Architecture: (More Autonomous Execution):**
-
-<img width="793" height="531" alt="image" src="https://github.com/user-attachments/assets/90015ded-1576-4a3d-a7f4-97324ca75164" />
-
-
-**Sample Live Results:**
-
-<img width="1642" height="537" alt="image" src="https://github.com/user-attachments/assets/27e2d800-2057-4e39-a3dc-21421cc0159e" />
-
-<img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
-
-
-Conditions Optimization (Grid Search):
-
-<img width="532" height="351" alt="image" src="https://github.com/user-attachments/assets/8744ecb0-e70a-4656-9618-47f22ec4944f" />
-
-
 ----------------------------------------
 
 
 
-# **Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** 
+# **Agent 4: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation [Idea Phase]** 
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
 
@@ -173,7 +179,7 @@ J. Visualization: Dashboards with Streamlit or Grafana for insights and monitori
 
 -----------------------------
 
-**Other Industrial Applications and Use Cases of Agentic AI (To be in Watchlist for 2025):**
+# **Other Industrial Applications and Use Cases of Agentic AI (To be in Watchlist for 2025):**
 
 **1. Predictive Maintenance Agent:** (A commercially viable solution)
 
