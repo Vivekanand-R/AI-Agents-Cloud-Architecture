@@ -5,7 +5,7 @@
 **AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc]
 
 
-**Layers of Agentic AI:**
+# **Layers of Agentic AI:**
 
 Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing.
 
@@ -57,7 +57,7 @@ List of AI Agents Protocol's:
 
 ---------------------------
 
-**Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
+# **Cloud Project 1: Healthcare Application: Health & Wellness AI Agentic System** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
@@ -101,11 +101,9 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
                           
 ----------------------------------------
+                         
 
-
-                           
-
-**Cloud Project 2: Fintech Application: Automating Fintech - Agentic AI for Cloud** [Completed Version - Agent 2]
+# **Cloud Project 2: Fintech Application: Automating Fintech - Agentic AI for Cloud** [Completed Version - Agent 2]
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
 
@@ -148,9 +146,7 @@ Conditions Optimization (Grid Search):
 
 
 
-
-
-**Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** 
+# **Cloud Project 3: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation** 
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
 
