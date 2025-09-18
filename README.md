@@ -118,34 +118,24 @@ Tech: LLM + rule-based logic + wearable APIs.
 
 
 **Backend / AI:**
-A. Python (FastAPI or Flask) for APIs
-
-B. LLM integration: GPT-4, Claude, or open-source (e.g., LLaMA) via prompt templates
-
-C. NLP/NLU: spaCy, Rasa NLU (for intent detection)
+                A. Python (FastAPI or Flask) for APIs
+                B. LLM integration: GPT-4, Claude, or open-source (e.g., LLaMA) via prompt templates
+                C. NLP/NLU: spaCy, Rasa NLU (for intent detection)
 
 Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 
 **Tech Stack Using NVIDIA Ecosystem:**
-
-1. LLM Inference: Use NVIDIA NIM or TensorRT-LLM for fast, GPU-optimized large language models.
-
-2. Model Serving: Deploy models via NVIDIA Triton Inference Server.
-
-3. NLP/Intent Detection: Leverage NVIDIA NeMo for prebuilt NLP models and training pipelines.
-
-4. Backend: FastAPI (Python) for handling user interactions and routing to AI components.
-
-5. Wearable Integration: Collect and process user health data from APIs like Fitbit or Apple Health.
-
-6. Scheduling & Reminders: Use Celery with Redis for nudges and task queues.
-
-7. Cloud Deployment: Run on AWS/GCP using NVIDIA GPU instances (A100/V100).
-
-8. Containerization: Docker + NGC containers for scalable, reproducible deployments.
-
-9. Monitoring: Use NVIDIA tools or Prometheus/Grafana for performance and inference tracking.
+                
+                1. LLM Inference: Use NVIDIA NIM or TensorRT-LLM for fast, GPU-optimized large language models.
+                2. Model Serving: Deploy models via NVIDIA Triton Inference Server.
+                3. NLP/Intent Detection: Leverage NVIDIA NeMo for prebuilt NLP models and training pipelines.
+                4. Backend: FastAPI (Python) for handling user interactions and routing to AI components.
+                5. Wearable Integration: Collect and process user health data from APIs like Fitbit or Apple Health.
+                6. Scheduling & Reminders: Use Celery with Redis for nudges and task queues.
+                7. Cloud Deployment: Run on AWS/GCP using NVIDIA GPU instances (A100/V100).
+                8. Containerization: Docker + NGC containers for scalable, reproducible deployments.
+                9. Monitoring: Use NVIDIA tools or Prometheus/Grafana for performance and inference tracking.
 
 
 ----------------------------------------
@@ -155,26 +145,17 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 # **Agent 4: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation [Idea Phase]** 
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
-
-A. GPU/TPU Compute: Use cloud platforms (AWS, GCP, Azure) with GPU/TPU instances for training and simulation.
-
-B. Scalable Storage: Store large climate datasets using S3 or GCS with DVC for version control.
-
-C. Distributed Processing: Use Dask or Spark for efficient data preprocessing and simulation scaling.
-
-D. Experiment Tracking: Track models with MLflow or Weights & Biases for reproducibility.
-
-E. Containerization: Use Docker and Kubernetes for agent deployment and orchestration.
-
-F. Data Access APIs: Integrate remote datasets via OPeNDAP, RESTful APIs, or Earthdata.
-
-G. Cloud-Native Architecture: Design with microservices and auto-scaling for flexibility.
-
-H. CI/CD Pipelines: Automate testing and deployment using GitHub Actions or GitLab CI.
-
-I. Security & IAM: Enforce access controls, encryption, and audit logging.
-
-J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
+                
+                A. GPU/TPU Compute: Use cloud platforms (AWS, GCP, Azure) with GPU/TPU instances for training and simulation.
+                B. Scalable Storage: Store large climate datasets using S3 or GCS with DVC for version control.
+                C. Distributed Processing: Use Dask or Spark for efficient data preprocessing and simulation scaling.
+                D. Experiment Tracking: Track models with MLflow or Weights & Biases for reproducibility.
+                E. Containerization: Use Docker and Kubernetes for agent deployment and orchestration.\
+                F. Data Access APIs: Integrate remote datasets via OPeNDAP, RESTful APIs, or Earthdata.
+                G. Cloud-Native Architecture: Design with microservices and auto-scaling for flexibility.
+                H. CI/CD Pipelines: Automate testing and deployment using GitHub Actions or GitLab CI.
+                I. Security & IAM: Enforce access controls, encryption, and audit logging.
+                J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
 
 # **Agent 5: AI Log Viewer for Industry 5.0 [Early Phase]**
