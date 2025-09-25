@@ -277,10 +277,6 @@ It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [ex
 
 ![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
 
-Ref: 
-
-1. Google Cloud Event Schedules: https://blog.google/technology/developers/ai-agents-intensive/
-2. Nvdia Schedules: https://www.nvidia.com/gtc/sessions/agentic-ai/
 
 ------------------------
 
