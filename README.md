@@ -166,7 +166,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 **Market Value**: It is estimated that log analytics / management total market market in 2025 is between USD 3 to 4 billion, with a CAGR of 18% growth. 
 
-**Problem with Traditional Tools**
+**Existing Tools**
                 A. Static Search & Filters: Legacy tools rely on regex, keyword search, or manual dashboards — requiring expert operators.
                 B. Reactive, Not Proactive: They show what happened but don’t infer why or what’s next.
                 C. Limited Contextualization: Logs, traces, and metrics are siloed, requiring cross-tool investigation.
