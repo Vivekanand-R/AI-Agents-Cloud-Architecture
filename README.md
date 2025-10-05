@@ -259,13 +259,11 @@ It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [ex
 <img width="607" height="250" alt="image" src="https://github.com/user-attachments/assets/d5f34e78-9fd5-4a8c-98c2-0385572d81ce" />
 
 
-**The Real Builders Behind Agentic AI’s Predicted Exponential Growth: 40%+ CAGR**
-
-<img width="660" height="275" alt="image" src="https://github.com/user-attachments/assets/ad9159bf-5313-42d1-83dc-08a25b39f016" />
-
-(Sample estimations)
-
 ---------------------------
+
+**List of Cloud Certifications:**
+
+![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
 
 
 **List of Major Cloud Services:**
@@ -273,9 +271,6 @@ It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [ex
 ![image](https://github.com/user-attachments/assets/f1f436e3-9a04-404d-9430-4789b62d8e8e)
 
 
-**List of Cloud Certifications:**
-
-![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
 
 
 ------------------------
