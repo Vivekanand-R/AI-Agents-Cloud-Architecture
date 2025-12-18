@@ -261,15 +261,6 @@ It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [ex
 
 ---------------------------
 
-**List of Cloud Certifications:**
-
-![image](https://github.com/user-attachments/assets/e49f436d-6968-4a62-ae4a-5137e4397b5c)
-
-
-**List of Major Cloud Services:**
-
-![image](https://github.com/user-attachments/assets/f1f436e3-9a04-404d-9430-4789b62d8e8e)
-
 
 
 
