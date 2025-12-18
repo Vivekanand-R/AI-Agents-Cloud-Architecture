@@ -58,7 +58,7 @@ List of AI Agents Protocol's:
 ---------------------------
 
 
-# **Agent 1 - Research Assistance [MVP]**
+ **Agent 1 - Research Assistance [MVP]**
 
 <img width="885" height="511" alt="image" src="https://github.com/user-attachments/assets/3be8247f-fa64-428b-9616-a1ff804a2e7f" />
 
@@ -66,7 +66,7 @@ List of AI Agents Protocol's:
 ----------------------------------------
                          
 
-# **Agent 2 - Finance Analyst: Automating Fintech And Equity Transactions** [Completed Version]
+ **Agent 2 - Finance Analyst: Automating Fintech And Equity Transactions** [Completed Version]
 
 Vision: To explore and harness agentic AI in global financial markets using **cloud-native infrastructure** for real-time, intelligent fintech actions. Enabling precision and speed through scalable, autonomous decision-making.
 
@@ -99,14 +99,13 @@ Architecture: (Linear Execution Top to Bottom)
 
 <img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
 
-
 Conditions Optimization (Grid Search):
 
 <img width="532" height="351" alt="image" src="https://github.com/user-attachments/assets/8744ecb0-e70a-4656-9618-47f22ec4944f" />
 
 -----------------------------------------------
 
-# **Agent 3 : Healthcare Application: Health & Wellness AI Agentic System [Idea Phase]** 
+ **Agent 3 : Healthcare Application: Health & Wellness AI Agentic System [Idea Phase]** 
 
 Use cases: Wellness, fitness apps, health nudging. Simple AI tool, Just curates and simplifies and provide assistance. 
 
@@ -142,7 +141,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 
 
-# **Agent 4: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation [Idea Phase]** 
+ **Agent 4: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation [Idea Phase]** 
 
 **Description:** This system provides AI-driven modeling of **climate change impacts**, capturing complex interactions across Earth systems. It enables simulation of mitigation and adaptation strategies under different climate scenarios. The goal is to support faster, more informed climate decisions through scalable, intelligent modeling.
                 
@@ -158,7 +157,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
                 J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
 
-# **Agent 5: AI Log Viewer for Industry 5.0 [Early Phase]**
+ **Agent 5: AI Log Viewer for Industry 5.0 [Early Phase]**
 
 **Value Tagline:** Predict, explain, and resolve — the future of observability for Industry 5.0
 
@@ -214,23 +213,23 @@ A multi-modal, AI-native observability platform that:
 
 -----------------------------
 
-# **Other Industrial Applications and Use Cases of Agentic AI:**
+ **Other Industrial Applications and Use Cases of Agentic AI:**
 
-**1. Predictive Maintenance Agent:** (A commercially viable solution)
+**6. Predictive Maintenance Agent:** (A commercially viable solution)
 
 Consumes sensor logs from turbines, transformers, or imaging CT/MRI healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers and field on time without any human interventions involved. 
 
-**2. Digital Twin Control Agent** (Concept of digital twins has already seen heavy investment and mainstream adoption in the past, this agent focuses on a fresh angle: **simulating what-if scenarios**)
+**7. Digital Twin Control Agent** (Concept of digital twins has already seen heavy investment and mainstream adoption in the past, this agent focuses on a fresh angle: **simulating what-if scenarios**)
 
 Simulates physical assets (gas turbines, wind farms, healthcare equipments) to test **what-if scenarios** for performance tuning, lifetime extension, or policy compliance. Auto identify the root casue and fix the product issues. 
 
 Data Readiness & QA Agent: Evaluates data pipelines, spots data drift, missingness, schema violations, and alerts teams before models fail downstream.
 
-**3. Auto-Dashboarding Agent** (Under-estimated Idea, but has great potential in Business Intelligence World, if successful it will be helpful for atleast 1M+ BI developers and users in the below pyramid)
+**8. Auto-Dashboarding Agent** (Under-estimated Idea, but has great potential in Business Intelligence World, if successful it will be helpful for atleast 1M+ BI developers and users in the below pyramid)
 
 Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with natural language prompts, including forecasting and anomaly explanations. And, do a better predictions/forecasting for commercial team.
 
-**4. Investment Research Agent: Autonomous Decision-Makers & Planners**
+**9. Investment Research Agent: Autonomous Decision-Makers & Planners**
 
 Analyzes real-time data, economic indicators, and sentiment for portfolio suggestions. Autonomous Decision-Makers & Planners. Simulates a person’s decision-making for training or automation (e.g., for leadership teams, investors).
 
@@ -238,10 +237,7 @@ Analyzes real-time data, economic indicators, and sentiment for portfolio sugges
 
 ---------------------------
 
-**Use cases | Sample Cloud Cost Estimates:**
-
-![image](https://github.com/user-attachments/assets/a806ea3a-5cc6-48a6-8140-630068053cd5)
-
+**Use cases | Cloud Hosting:**
 
 Services: Azure Bastion, a fully managed PaaS service, delivers secure remote access to Azure virtual machines using RDP or SSH without exposing them to the public internet.
 
