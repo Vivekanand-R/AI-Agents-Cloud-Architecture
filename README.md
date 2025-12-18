@@ -232,12 +232,13 @@ Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with nat
 
 **4. Investment Research Agent: Autonomous Decision-Makers & Planners**
 
-Analyzes real-time data, economic indicators, and sentiment for portfolio suggestions. Autonomous Decision-Makers & Planners. Simulates a person’s decision-making for training or automation (e.g., for CEOs, investors).
+Analyzes real-time data, economic indicators, and sentiment for portfolio suggestions. Autonomous Decision-Makers & Planners. Simulates a person’s decision-making for training or automation (e.g., for leadership teams, investors).
 
 -------------------------
 
+---------------------------
 
-**Sample Cloud Cost Estimates:**
+**Use cases | Sample Cloud Cost Estimates:**
 
 ![image](https://github.com/user-attachments/assets/a806ea3a-5cc6-48a6-8140-630068053cd5)
 
@@ -251,6 +252,8 @@ Few Alternative's:
 
 -----------------------------------------------
 
+
+Product Management | Business Opportunities | Area of Focus
 
 **Global agentic AI market:** (CAGR Rough Estimates)
 
