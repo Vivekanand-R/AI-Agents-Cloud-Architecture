@@ -214,7 +214,7 @@ A multi-modal, AI-native observability platform that:
 
 -----------------------------
 
-# **Other Industrial Applications and Use Cases of Agentic AI (To be in Watchlist for 2025):**
+# **Other Industrial Applications and Use Cases of Agentic AI:**
 
 **1. Predictive Maintenance Agent:** (A commercially viable solution)
 
@@ -253,7 +253,7 @@ Few Alternative's:
 -----------------------------------------------
 
 
-Product Management | Business Opportunities | Area of Focus
+**Market Growth | Product Management | Business Opportunities | Area of Focus**
 
 **Global agentic AI market:** (CAGR Rough Estimates)
 
