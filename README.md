@@ -239,6 +239,8 @@ Analyzes real-time data, economic indicators, and sentiment for portfolio sugges
 
 **Use cases | Cloud Hosting:**
 
+Cloud Solutions | Cost Optimizations
+
 Services: Azure Bastion, a fully managed PaaS service, delivers secure remote access to Azure virtual machines using RDP or SSH without exposing them to the public internet.
 
 Few Alternative's:
@@ -248,10 +250,9 @@ Few Alternative's:
 
 -----------------------------------------------
 
-
-**Market Growth | Product Management | Business Opportunities | Area of Focus**
-
 **Global agentic AI market:** (CAGR Rough Estimates)
+
+Market Growth | Product Management | Business Opportunities | Area of Focus
 
 It is expected that over 5-10 years, the CAGR growth to be between 35 to 45% [extremely high expected growth rates], for LLM market is expected to be between ~30–37% range for the same duration. 
 
