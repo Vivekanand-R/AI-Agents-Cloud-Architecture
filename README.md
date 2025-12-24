@@ -92,6 +92,10 @@ Architecture: (Linear Execution Top to Bottom)
 
 <img width="793" height="531" alt="image" src="https://github.com/user-attachments/assets/90015ded-1576-4a3d-a7f4-97324ca75164" />
 
+**Features:-**
+
+<img width="1378" height="151" alt="image" src="https://github.com/user-attachments/assets/e5ac61dc-3d3d-4439-8adf-e8e64ef3f4ec" />
+
 
 **Sample Live Results:**
 
