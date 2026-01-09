@@ -23,13 +23,7 @@ Layer 6 – Generation:  Produce the final answer (**text, code, summary, table*
 
 Layer 7 – Action & Feedback: Execute the answer (**send reports**, trigger automation, or request feedback to improve). 
 
-Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.  
-Tools: Pinecone, Weaviate, Milvus, Qdrant.
-Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
-Tools: Crew AI, LangGraph, and AutoGen.
-Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
-Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
-Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
+Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi, Pinecone, Weaviate, Milvus, Qdrant, Vespa, Elasticsearch, FAISS, OpenSearch, Crew AI, LangGraph, AutoGen, LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline, **GPT-4o**, Claude, Mistral Large, LLaMA 3, Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
 
 Top frameworks for AI agent development:
 
