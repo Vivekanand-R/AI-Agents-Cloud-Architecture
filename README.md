@@ -7,33 +7,19 @@
 
 # **Layers of Agentic AI:**
 
-Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing.
+Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing. Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.
 
-Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.
+Layer 2 – Index & Vectorization: Purpose: Convert data into embeddings (mathematical vectors) so the system can search and understand by meaning, not just keywords. Tools: Pinecone, Weaviate, Milvus, Qdrant.
 
-Layer 2 – Index & Vectorization: Purpose: Convert data into embeddings (mathematical vectors) so the system can search and understand by meaning, not just keywords.
+Layer 3 – Retrieval: Purpose: **Fetch the most relevant data** from the knowledge base when a query is asked. Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
 
-Tools: Pinecone, Weaviate, Milvus, Qdrant.
+Layer 4 – Reasoning & Planning: Purpose: Decide how to solve the problem—whether to retrieve more data, use a tool, or plan a sequence of actions. Tools: Crew AI, LangGraph, and AutoGen.
 
-Layer 3 – Retrieval: Purpose: **Fetch the most relevant data** from the knowledge base when a query is asked.
+Layer 5 – Augmentation & Context Fusion: Purpose: Merge retrieved data with the model’s own reasoning to make the answer richer, more accurate, and contextually correct. Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
 
-Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
+Layer 6 – Generation: Purpose: Produce the final answer (**text, code, summary, table**) using all gathered and processed info. Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
 
-Layer 4 – Reasoning & Planning: Purpose: Decide how to solve the problem—whether to retrieve more data, use a tool, or plan a sequence of actions.
-
-Tools: Crew AI, LangGraph, AutoGen, Baby AGI.
-
-Layer 5 – Augmentation & Context Fusion: Purpose: Merge retrieved data with the model’s own reasoning to make the answer richer, more accurate, and contextually correct.
-
-Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
-
-Layer 6 – Generation: Purpose: Produce the final answer (**text, code, summary, table**) using all gathered and processed info.
-
-Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
-
-Layer 7 – Action & Feedback: Purpose: Execute the answer (**send reports**, trigger automation, or request feedback to improve).
-
-Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
+Layer 7 – Action & Feedback: Purpose: Execute the answer (**send reports**, trigger automation, or request feedback to improve). Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
 
 
 Top frameworks for AI agent development:
