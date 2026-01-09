@@ -64,7 +64,7 @@ Financial API's Requirements: IBKR Historical Data (s - subscription) , Yfinance
 
 Application Requirement's: IBKR Workstation - Papertrading Application, Zerodha Kite
 
-Programming Requirement's: 10 Algorithms to execute the Buy/Sell Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary.
+Programming Requirement's: 10 Algorithms to execute the Transactions,  2 Risk Management (Stop Loss, GTT, Time Limit and PnL Portfolio), 1 for Logging,  1 for Alert and  1 Detailed Report Summary.
 
 Exchanges: Major Exchanges (For Multi Variable - Time Series Analysis) 
 
@@ -85,9 +85,8 @@ Architecture: (Linear Execution Top to Bottom)
 
 <img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
 
-Conditions Optimization (Grid Search):
 
-<img width="532" height="351" alt="image" src="https://github.com/user-attachments/assets/8744ecb0-e70a-4656-9618-47f22ec4944f" />
+(High Level of Financial Knowledge is required, this is to explore AI Agents applications on fintech and automations) 
 
 -----------------------------------------------
 
@@ -112,15 +111,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 **Tech Stack Using NVIDIA Ecosystem:**
                 
-                1. LLM Inference: Use NVIDIA NIM or TensorRT-LLM for fast, GPU-optimized large language models.
-                2. Model Serving: Deploy models via NVIDIA Triton Inference Server.
-                3. NLP/Intent Detection: Leverage NVIDIA NeMo for prebuilt NLP models and training pipelines.
-                4. Backend: FastAPI (Python) for handling user interactions and routing to AI components.
-                5. Wearable Integration: Collect and process user health data from APIs like Fitbit or Apple Health.
-                6. Scheduling & Reminders: Use Celery with Redis for nudges and task queues.
-                7. Cloud Deployment: Run on AWS/GCP using NVIDIA GPU instances (A100/V100).
-                8. Containerization: Docker + NGC containers for scalable, reproducible deployments.
-                9. Monitoring: Use NVIDIA tools or Prometheus/Grafana for performance and inference tracking.
+                1. LLM Inference | 2. Model Serving | 3. NLP/Intent Detection | 4. Backend | 5. Wearable Integration | 6. Scheduling & Reminders | 7. Cloud Deployment | 8. Containerization | 9. Monitoring
 
 
 ----------------------------------------
@@ -195,7 +186,7 @@ A multi-modal, AI-native observability platform that:
 
 **Use Cases:** Predict machine downtime, detect cyber threats, summarize IoT floods, Field operators query with alerts/voice, SME's will get AI reports.
 
-**Core Benefits:** Reduce downtime & costs, Enable human-centric collaboration, Ensure trust, compliance & scalability, Future-proof for Industry 5.0 data growth.
+**Core Benefits:** Reduce downtime & costs, Enable human-centric collaboration, Ensure trust, compliance & scalability, Future-proof for Industry 5.0 data growth. And, a goal towards Responsible AI.
 
 
 
