@@ -1,26 +1,35 @@
 # AI Agents
 
-**Agentic AI**: To achieve certain bigger goals using the collection of AI Agents. (Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning)
+**Agentic AI**: To achieve certain bigger goals using the collection of AI Agents. 
 
-**AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) [Examples: Simple Chatbots, Q&A Bots etc]
+Agentic AI = AI Agents + advanced autonomy + planning + tool use + memory + reasoning
+
+**AI Agents**: To achieve certain goals. (perceives -> decide -> and then act) 
 
 
-# **Layers of Agentic AI:**
+**Layers of Agentic AI:**
 
-Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing. Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.
+Layer 1 – Data Ingestion: Purpose: Gather raw data from multiple sources, clean it, and prepare it for processing. 
 
-Layer 2 – Index & Vectorization: Purpose: Convert data into embeddings (mathematical vectors) so the system can search and understand by meaning, not just keywords. Tools: Pinecone, Weaviate, Milvus, Qdrant.
+Layer 2 – Index & Vectorization:  Convert data into embeddings (mathematical vectors) so the system can search and understand by meaning, not just keywords.
 
-Layer 3 – Retrieval: Purpose: **Fetch the most relevant data** from the knowledge base when a query is asked. Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
+Layer 3 – Retrieval:  **Fetch the most relevant data** from the knowledge base when a query is asked. 
 
-Layer 4 – Reasoning & Planning: Purpose: Decide how to solve the problem—whether to retrieve more data, use a tool, or plan a sequence of actions. Tools: Crew AI, LangGraph, and AutoGen.
+Layer 4 – Reasoning & Planning: Decide how to solve the problem—whether to retrieve more data, use a tool, or plan a sequence of actions. 
 
-Layer 5 – Augmentation & Context Fusion: Purpose: Merge retrieved data with the model’s own reasoning to make the answer richer, more accurate, and contextually correct. Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
+Layer 5 – Augmentation & Context Fusion: Merge retrieved data with the model’s own reasoning to make the answer richer, more accurate, and contextually correct. 
 
-Layer 6 – Generation: Purpose: Produce the final answer (**text, code, summary, table**) using all gathered and processed info. Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
+Layer 6 – Generation:  Produce the final answer (**text, code, summary, table**) using all gathered and processed info. 
 
-Layer 7 – Action & Feedback: Purpose: Execute the answer (**send reports**, trigger automation, or request feedback to improve). Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
+Layer 7 – Action & Feedback: Execute the answer (**send reports**, trigger automation, or request feedback to improve). 
 
+Tools: Airbyte, AWS Glue, Fivetran, Apache NiFi.  
+Tools: Pinecone, Weaviate, Milvus, Qdrant.
+Tools: Vespa, Elasticsearch, FAISS, OpenSearch.
+Tools: Crew AI, LangGraph, and AutoGen.
+Tools: LlamaIndex Context Fusion, LangChain, RAGAS, Haystack Pipeline.
+Tools: **GPT-4o**, Claude, Mistral Large, LLaMA 3.
+Tools: Zapier, Hugging Face Agents, AWS Lambda, **Weights & Biases**.
 
 Top frameworks for AI agent development:
 
@@ -85,9 +94,9 @@ Architecture: (Linear Execution Top to Bottom)
 
 <img width="1150" height="601" alt="image" src="https://github.com/user-attachments/assets/a2458510-78dd-417d-b554-75afa02d8e16" />
 
-
-(High Level of Financial Knowledge is required, this is to explore AI Agents applications on fintech and automations) 
-
+       
+A strong foundation in financial knowledge is prefered for this work. It aims to explore and apply AI agent technologies within the fintech and automation sectors, focusing on practical and innovative use cases.
+  
 -----------------------------------------------
 
  **Agent 3 : Healthcare Application: Health & Wellness AI Agentic System [Idea Phase]** 
@@ -109,13 +118,9 @@ Tech: LLM + rule-based logic + wearable APIs.
 Optional AI hosting: Hugging Face Inference API or OpenAI API
 
 
-**Tech Stack Using NVIDIA Ecosystem:**
-                
-                1. LLM Inference | 2. Model Serving | 3. NLP/Intent Detection | 4. Backend | 5. Wearable Integration | 6. Scheduling & Reminders | 7. Cloud Deployment | 8. Containerization | 9. Monitoring
-
+**Tech Stack Using NVIDIA Ecosystem:** LLM Inference | Model Serving | NLP/Intent Detection | Backend | Wearable Integration | Scheduling & Reminders | Cloud Deployment | Containerization | Monitoring
 
 ----------------------------------------
-
 
 
  **Agent 4: Climate Science / Earth System Science Application: Design and Development of AI-Agent Systems for Climate Change Modeling and Policy Simulation [Idea Phase]** 
@@ -133,6 +138,7 @@ Optional AI hosting: Hugging Face Inference API or OpenAI API
                 I. Security & IAM: Enforce access controls, encryption, and audit logging.
                 J. Visualization: Dashboards with Streamlit or Grafana for insights and monitoring.
 
+-----------------------------------------------
 
  **Agent 5: AI Log Viewer for Industry 5.0 [Early Phase]**
 
