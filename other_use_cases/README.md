@@ -4,7 +4,7 @@
 
 **6. Predictive Maintenance Agent:** (A commercially viable solution)
 
-Consumes sensor logs from turbines, transformers, or imaging CT/MRI healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers and field on time without any human interventions involved. 
+Consumes sensor logs from turbines, transformers, or imaging CT/MRI healthcare machines. Predicts failure using temporal models (e.g., transformer oil analytics + vibration + image logs + Sensor + temperature). Alert customers, field on time to assist them further.
 
 **7. Digital Twin Control Agent** (Concept of digital twins has already seen heavy investment and mainstream adoption in the past, this agent focuses on a fresh angle: **simulating what-if scenarios**)
 
@@ -19,6 +19,8 @@ Connects to Snowflake/Databricks/DataLake, builds dynamic BI dashboards with nat
 **9. Investment Research Agent: Autonomous Decision-Makers & Planners**
 
 Analyzes real-time data, economic indicators, and sentiment for portfolio suggestions. Autonomous Decision-Makers & Planners. Simulates a person’s decision-making for training or automation (e.g., for leadership teams, investors).
+
+(All these agents would involve Subject Matter Experts in its respective fields) 
 
 -------------------------
 
